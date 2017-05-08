@@ -1,0 +1,276 @@
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\fakeNES\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\homecomponent.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\homecomponent.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\e2e\app.e2e-spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.component.spec.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\home\home.component.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\app\app.module.js.map
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\src\main.js.map
