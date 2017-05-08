@@ -302,7 +302,9 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="src\app\browse\browse.component.html" />
     <Content Include="src\app\home\home.component.html" />
+    <Content Include="src\app\product\product.component.html" />
     <Content Include="src\favicon.ico" />
+    <Content Include="src\img\super_mario_bros_cover.jpg" />
     <Content Include="src\index.html" />
     <Content Include="src\styles.css" />
     <Content Include="src\systemjs-angular-loader.js" />
@@ -328,9 +330,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="src\app\cart\" />
-    <Folder Include="src\app\product\" />
     <Folder Include="src\app\shared\" />
-    <Folder Include="src\img\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -354,6 +354,7 @@
     <TypeScriptCompile Include="src\app\app.module.ts" />
     <TypeScriptCompile Include="src\app\browse\browse.component.ts" />
     <TypeScriptCompile Include="src\app\home\home.component.ts" />
+    <TypeScriptCompile Include="src\app\product\product.component.ts" />
     <TypeScriptCompile Include="src\main.ts" />
   </ItemGroup>
   <ItemGroup>

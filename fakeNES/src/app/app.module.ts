@@ -5,6 +5,7 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { BrowseComponent } from './browse/browse.component';
+import { ProductComponent } from './product/product.component';
 
 @NgModule({
     imports: [
@@ -12,13 +13,15 @@ import { BrowseComponent } from './browse/browse.component';
         RouterModule.forRoot([
             { path: 'home', component: HomeComponent },
             { path: 'browse', component: BrowseComponent },
+            { path: 'product', component: ProductComponent },
             { path: '', redirectTo: 'home', pathMatch: 'full' },
             { path: '**', redirectTo: 'home', pathMatch: 'full' }
         ])],
     declarations: [
         AppComponent,
         HomeComponent,
-        BrowseComponent
+        BrowseComponent,
+        ProductComponent
     ],
   bootstrap:    [ AppComponent ]
 })

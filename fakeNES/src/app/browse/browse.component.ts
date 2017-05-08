@@ -3,7 +3,6 @@
 @Component({
     templateUrl: 'app/browse/browse.component.html'
 })
-
 export class BrowseComponent {
 
 }
