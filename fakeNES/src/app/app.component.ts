@@ -7,16 +7,19 @@
                      <div class='container-fluid'>
                          <a class='navbar-brand'>Fake NES Store</a>
                          <ul class='nav navbar-nav'>
-                             <li><a>Home</a></li>
+                             <li><a [routerLink]="['/home']">Home</a></li>
+                             <li><a [routerLink]="['/browse']">Browse</a></li>
                          </ul>
                      </div>
                  </nav>
                  <div class='container'>
-                     <home></home>
+                     <router-outlet></router-outlet>
                  </div>
-                 <footer>
-                     Footer will go here
+                 <footer class='footer'>
+                     <div class='container-fluid'>
+                         <p class='text-muted'>Footer will go here</p>
+                     </div>
                  </footer>
-             </div>`,
+             </div>`
 })
 export class AppComponent  { name = 'Angular'; }
