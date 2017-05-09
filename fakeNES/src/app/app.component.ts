@@ -10,6 +10,7 @@
                              <li><a [routerLink]="['/home']">Home</a></li>
                              <li><a [routerLink]="['/browse']">Browse</a></li>
                              <li><a [routerLink]="['/product']">Test Product Page</a></li>
+                             <li><a [routerLink]="['/cart']">Cart</a></li>
                          </ul>
                      </div>
                  </nav>

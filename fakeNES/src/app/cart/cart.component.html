@@ -1,0 +1,75 @@
+﻿<div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Total</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of products">
+        <td>
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <img class="media-object" [src]="product.imageUrl" alt="" style="max-width: 80px"/>
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading"><a href="#">{{ product.title }}</a></h4>"
+            </div>
+          </div>
+        </td>
+        <td class="vcenter">
+          <input type="number" class="form-control" min="0" [(ngModel)]="product.quantity"/>
+        </td>
+        <td class="vcenter"><strong>{{ product.price }}</strong></td>
+        <td class="vcenter"><strong></strong></td>
+        <td class="vcenter">
+          <button type="button" class="btn btn-danger">
+            <span class="glyphicon glyphicon-remove"></span> Remove
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><h5>Subtotal</h5></td>
+        <td>Number goes here</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><h5>Estimated Shipping</h5></td>
+        <td>Number goes here</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><h5>Total</h5></td>
+        <td>Number goes here</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <button type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-shopping-cart"></span> Continue Shopping
+          </button>
+        </td>
+        <td>
+          <button type="button" class="btn btn-success">
+            Checkout <span class="glyphicon glyphicon-play"></span>
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
