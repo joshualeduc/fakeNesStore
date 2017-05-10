@@ -4,7 +4,7 @@
   selector: 'my-app',
   template: `<div>
                  <my-navbar></my-navbar>
-                 <div class='container'>
+                 <div class='container' style='padding-top: 70px'>
                      <router-outlet></router-outlet>
                  </div>
                  <footer class='footer'>

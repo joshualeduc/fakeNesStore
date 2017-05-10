@@ -304,9 +304,11 @@
     <Content Include="src\app\cart\cart.component.html" />
     <Content Include="src\app\home\home.component.html" />
     <Content Include="src\app\product\product.component.html" />
+    <Content Include="src\app\shared\navigation.component.css" />
+    <Content Include="src\app\shared\navigation.component.html" />
     <Content Include="src\favicon.ico" />
-    <Content Include="src\img\CoinMK8.png" />
-    <Content Include="src\img\super_mario_bros_cover.jpg" />
+    <Content Include="src\app\assets\images\CoinMK8.png" />
+    <Content Include="src\app\assets\images\super_mario_bros_cover.jpg" />
     <Content Include="src\index.html" />
     <Content Include="src\styles.css" />
     <Content Include="src\systemjs-angular-loader.js" />
@@ -331,7 +333,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="src\app\shared\" />
+    <Folder Include="src\img\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -357,6 +359,7 @@
     <TypeScriptCompile Include="src\app\cart\cart.component.ts" />
     <TypeScriptCompile Include="src\app\home\home.component.ts" />
     <TypeScriptCompile Include="src\app\product\product.component.ts" />
+    <TypeScriptCompile Include="src\app\shared\navigation.component.ts" />
     <TypeScriptCompile Include="src\main.ts" />
   </ItemGroup>
   <ItemGroup>

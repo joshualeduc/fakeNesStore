@@ -12,17 +12,16 @@ export class CartComponent {
             description: 'a;lsdkjfa;lsdkjfpwoeriulsldsjf;laskdjf;lasdfjk alk;dkjfpowqeijf sadf wpjoeir sdl kfsla;djf poqowi efjsad fja dpfwioefj sad;lkfj asdgpwoeifjas dlf',
             imageUrl: 'app/assets/images/super_mario_bros_cover.jpg',
             quantity: 1,
-            itemTotal: function (): number {
+            orderCashTotal: function (): number {
                 return this.quantity * this.price;
             }
-
         }
     ];
 
     subTotal = function (): number {
         let sum: number = 0;
         for (let product of this.products) {
-            sum += product.itemTotal();
+            sum += product.orderCashTotal();
         }
         return +sum.toFixed(2);
     }
