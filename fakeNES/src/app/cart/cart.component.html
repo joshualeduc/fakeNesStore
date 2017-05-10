@@ -19,15 +19,15 @@
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading"><a href="#">{{ product.title }}</a></h4>"
+              <h4 class="media-heading"><a href="#">{{ product.title }}</a></h4>
             </div>
           </div>
         </td>
         <td class="vcenter">
-          <input type="number" class="form-control" min="0" [(ngModel)]="product.quantity"/>
+          <input type="number" class="form-control" min="1" [(ngModel)]="product.quantity"/>
         </td>
         <td class="vcenter"><strong>{{ product.price }}</strong></td>
-        <td class="vcenter"><strong></strong></td>
+        <td class="vcenter"><strong>{{ product.itemTotal() }}</strong></td>
         <td class="vcenter">
           <button type="button" class="btn btn-danger">
             <span class="glyphicon glyphicon-remove"></span> Remove
@@ -39,21 +39,21 @@
         <td></td>
         <td></td>
         <td><h5>Subtotal</h5></td>
-        <td>Number goes here</td>
+        <td>{{ subTotal() | number: '1.2-2' }}</td>
       </tr>
       <tr>
         <td></td>
         <td></td>
         <td></td>
         <td><h5>Estimated Shipping</h5></td>
-        <td>Number goes here</td>
+        <td>{{ estimatedShipping() | number: '1.2-2' }}</td>
       </tr>
       <tr>
         <td></td>
         <td></td>
         <td></td>
         <td><h5>Total</h5></td>
-        <td>Number goes here</td>
+        <td>{{ total() | number: '1.2-2' }}</td>
       </tr>
       <tr>
         <td></td>

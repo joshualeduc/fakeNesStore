@@ -2,8 +2,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
 
 import { AppComponent } from './app.component';
+import { NavigationComponent } from './shared/navigation.component'
 import { HomeComponent } from './home/home.component';
 import { BrowseComponent } from './browse/browse.component';
 import { ProductComponent } from './product/product.component';
@@ -23,6 +25,7 @@ import { CartComponent } from './cart/cart.component';
         ])],
     declarations: [
         AppComponent,
+        NavigationComponent,
         HomeComponent,
         BrowseComponent,
         ProductComponent,

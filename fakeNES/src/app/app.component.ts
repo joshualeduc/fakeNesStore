@@ -3,17 +3,7 @@
 @Component({
   selector: 'my-app',
   template: `<div>
-                 <nav class='navbar navbar-default'>
-                     <div class='container-fluid'>
-                         <a class='navbar-brand'>Fake NES Store</a>
-                         <ul class='nav navbar-nav'>
-                             <li><a [routerLink]="['/home']">Home</a></li>
-                             <li><a [routerLink]="['/browse']">Browse</a></li>
-                             <li><a [routerLink]="['/product']">Test Product Page</a></li>
-                             <li><a [routerLink]="['/cart']">Cart</a></li>
-                         </ul>
-                     </div>
-                 </nav>
+                 <my-navbar></my-navbar>
                  <div class='container'>
                      <router-outlet></router-outlet>
                  </div>
