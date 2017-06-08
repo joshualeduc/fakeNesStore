@@ -1,8 +1,4 @@
-﻿body {
-  padding-top: 65px;
-}
-
-.footer {
+﻿.footer {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -12,8 +8,4 @@
 
 .footer .text-muted {
   margin: 20px 0;
-}
-
-.vcenter {
-  vertical-align: middle;
 }

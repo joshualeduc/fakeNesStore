@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
+import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { NavigationComponent } from './shared/navigation.component'
@@ -11,17 +12,19 @@ import { BrowseComponent } from './browse/browse.component';
 import { ProductComponent } from './product/product.component';
 import { CartComponent } from './cart/cart.component';
 
+import { GameService } from './browse/game.service';
+
 @NgModule({
     imports: [
         BrowserModule,
         FormsModule,
+        HttpModule,
         RouterModule.forRoot([
             { path: 'home', component: HomeComponent },
             { path: 'browse', component: BrowseComponent },
             { path: 'product', component: ProductComponent },
             { path: 'cart', component: CartComponent },
-            { path: '', redirectTo: 'home', pathMatch: 'full' },
-            { path: '**', redirectTo: 'home', pathMatch: 'full' }
+            { path: 'index', redirectTo: 'home', pathMatch: 'full'}
         ])],
     declarations: [
         AppComponent,
@@ -31,6 +34,9 @@ import { CartComponent } from './cart/cart.component';
         ProductComponent,
         CartComponent
     ],
-  bootstrap:    [ AppComponent ]
+    providers: [
+        GameService
+    ],
+    bootstrap: [ AppComponent ]
 })
 export class AppModule { }

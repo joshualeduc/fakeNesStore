@@ -1,0 +1,1741 @@
+﻿[
+  {
+    "deck": "Mario and his friends find themselves in the mysterious world of Sub-Con, where they must fight new enemies (with new techniques) to stop the master plans of the evil toad king, Wart.",
+    "id": 7406,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362269-nes_supermariobros2.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362269-nes_supermariobros2.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362269-nes_supermariobros2.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362269-nes_supermariobros2.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362269-nes_supermariobros2.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362269-nes_supermariobros2.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362269-nes_supermariobros2.jpg"
+    },
+    "name": "Super Mario Bros. 2",
+    "original_release_date": "1988-10-01 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-463/",
+        "id": 463,
+        "name": "Nintendo EAD",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-ead/3010-463/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "Super Mario Bros. 3 sends Mario on a whole new adventure across diverse worlds and sporting strange new suits and abilities.",
+    "id": 10299,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362272-nes_supermariobros3_4.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362272-nes_supermariobros3_4.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362272-nes_supermariobros3_4.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362272-nes_supermariobros3_4.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362272-nes_supermariobros3_4.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362272-nes_supermariobros3_4.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362272-nes_supermariobros3_4.jpg"
+    },
+    "name": "Super Mario Bros. 3",
+    "original_release_date": "1988-10-23 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-10631/",
+        "id": 10631,
+        "name": "SRD Co. Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/srd-co-ltd/3010-10631/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "Focusing on a humble plumber and his brother setting out to rescue a Princess who has been kidnapped by a vile lizard king, Super Mario Bros. is a platformer created by Shigeru Miyamoto, published by Nintendo, and is one of the best-selling video games of all time.",
+    "id": 15544,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362267-nes_supermariobros.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362267-nes_supermariobros.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362267-nes_supermariobros.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362267-nes_supermariobros.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362267-nes_supermariobros.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362267-nes_supermariobros.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362267-nes_supermariobros.jpg"
+    },
+    "name": "Super Mario Bros.",
+    "original_release_date": "1985-09-13 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-463/",
+        "id": 463,
+        "name": "Nintendo EAD",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-ead/3010-463/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-10631/",
+        "id": 10631,
+        "name": "SRD Co. Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/srd-co-ltd/3010-10631/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "A puzzle game that released in the midst of the Tetris craze, Dr. Mario put its own spin on the falling-blocks concept. It was one of the few Tetris derivatives of the time that was a hit in its own right.",
+    "id": 17641,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2269410-box_drmario.png",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2269410-box_drmario.png",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2269410-box_drmario.png",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2269410-box_drmario.png",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2269410-box_drmario.png",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2269410-box_drmario.png",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2269410-box_drmario.png"
+    },
+    "name": "Dr. Mario",
+    "original_release_date": "1990-07-27 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-928/",
+        "id": 928,
+        "name": "Nintendo R&D1",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-rd1/3010-928/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-18/",
+        "id": 18,
+        "name": "Puzzle",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+      }
+    ]
+  },
+  {
+    "deck": "A young boy explores a huge overworld filled with enemies and dungeons to find and rescue Princess Zelda from the evil Ganon.",
+    "id": 11949,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/10169-legendofzelda-goldbox.png",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/10169-legendofzelda-goldbox.png",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/10169-legendofzelda-goldbox.png",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/10169-legendofzelda-goldbox.png",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/10169-legendofzelda-goldbox.png",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/10169-legendofzelda-goldbox.png",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/10169-legendofzelda-goldbox.png"
+    },
+    "name": "The Legend of Zelda",
+    "original_release_date": "1986-02-21 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-463/",
+        "id": 463,
+        "name": "Nintendo EAD",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-ead/3010-463/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "Zelda II: The Adventure of Link is the second entry in the ground-breaking Zelda franchise. This controversial follow-up ditches the original's top-down perspective for 2D side-scrolling exploration and combat. The 2D towns, dungeons and combat arenas are tied together by a top-down overworld.",
+    "id": 16241,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362640-nes_legendofzeldaadevntureoflink.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362640-nes_legendofzeldaadevntureoflink.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362640-nes_legendofzeldaadevntureoflink.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362640-nes_legendofzeldaadevntureoflink.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362640-nes_legendofzeldaadevntureoflink.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362640-nes_legendofzeldaadevntureoflink.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362640-nes_legendofzeldaadevntureoflink.jpg"
+    },
+    "name": "Zelda II: The Adventure of Link",
+    "original_release_date": "1987-01-14 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-463/",
+        "id": 463,
+        "name": "Nintendo EAD",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-ead/3010-463/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-10631/",
+        "id": 10631,
+        "name": "SRD Co. Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/srd-co-ltd/3010-10631/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-5/",
+        "id": 5,
+        "name": "Role-Playing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "Blades of Steel is a hockey game first released by Konami for the arcade in 1987, followed by a release on the NES in 1988.",
+    "id": 6109,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361179-nes_bladesofsteel.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361179-nes_bladesofsteel.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361179-nes_bladesofsteel.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361179-nes_bladesofsteel.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361179-nes_bladesofsteel.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361179-nes_bladesofsteel.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361179-nes_bladesofsteel.jpg"
+    },
+    "name": "Blades of Steel",
+    "original_release_date": "1988-06-22 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-3/",
+        "id": 3,
+        "name": "Sports",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-39/",
+        "id": 39,
+        "name": "Hockey",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=hockey&wikiTypeId=3060&wikiId=39&genre=39"
+      }
+    ]
+  },
+  {
+    "deck": "Step into the shoes of the ninja Ryu Hayabusa as he goes on a quest to avenge his father's unexpected death.",
+    "id": 1653,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2344291-ninja.png",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2344291-ninja.png",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2344291-ninja.png",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2344291-ninja.png",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2344291-ninja.png",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2344291-ninja.png",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2344291-ninja.png"
+    },
+    "name": "Ninja Gaiden",
+    "original_release_date": "1988-12-09 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-7421/",
+        "id": 7421,
+        "name": "Tecmo",
+        "site_detail_url": "https://www.giantbomb.com/tecmo/3010-7421/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "The sequel to Tecmo's action packed platformer, Ninja Gaiden II: The Dark Sword of Chaos improves upon the gameplay concept of the original by adding new features like the ability to scale walls and to create Shadow Clones.",
+    "id": 14416,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362088-nes_ninjagaiden2.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362088-nes_ninjagaiden2.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362088-nes_ninjagaiden2.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362088-nes_ninjagaiden2.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362088-nes_ninjagaiden2.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362088-nes_ninjagaiden2.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362088-nes_ninjagaiden2.jpg"
+    },
+    "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "original_release_date": "1990-04-06 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-7421/",
+        "id": 7421,
+        "name": "Tecmo",
+        "site_detail_url": "https://www.giantbomb.com/tecmo/3010-7421/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "The last of the NES Ninja Gaiden trilogy.",
+    "id": 1850,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362089-nes_ninjagaiden3.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362089-nes_ninjagaiden3.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362089-nes_ninjagaiden3.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362089-nes_ninjagaiden3.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362089-nes_ninjagaiden3.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362089-nes_ninjagaiden3.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362089-nes_ninjagaiden3.jpg"
+    },
+    "name": "Ninja Gaiden III: The Ancient Ship of Doom",
+    "original_release_date": "1991-06-21 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-7421/",
+        "id": 7421,
+        "name": "Tecmo",
+        "site_detail_url": "https://www.giantbomb.com/tecmo/3010-7421/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "The Turtles' first appearance on the NES followed the fighting foursome as they attempt to defeat the evil Shredder. Featuring challenging platforming elements and open-world levels, the game quickly became one of the NES's best-selling titles.",
+    "id": 20790,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362300-nes_tmnt.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362300-nes_tmnt.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362300-nes_tmnt.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362300-nes_tmnt.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362300-nes_tmnt.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362300-nes_tmnt.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362300-nes_tmnt.jpg"
+    },
+    "name": "Teenage Mutant Ninja Turtles",
+    "original_release_date": "1989-05-12 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "This game is considered a sequel to the original arcade TMNT and was only released for the NES.",
+    "id": 1831,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362301-nes_tmntiiithemanhattanproject.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362301-nes_tmntiiithemanhattanproject.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362301-nes_tmntiiithemanhattanproject.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362301-nes_tmntiiithemanhattanproject.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362301-nes_tmntiiithemanhattanproject.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362301-nes_tmntiiithemanhattanproject.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362301-nes_tmntiiithemanhattanproject.jpg"
+    },
+    "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+    "original_release_date": "1992-02-14 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      }
+    ]
+  },
+  {
+    "deck": "Rescue the princess and defeat the evil Dragonlord in this landmark RPG from Enix.",
+    "id": 16305,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361686-nes_dragonwarriror.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361686-nes_dragonwarriror.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361686-nes_dragonwarriror.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361686-nes_dragonwarriror.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361686-nes_dragonwarriror.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361686-nes_dragonwarriror.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361686-nes_dragonwarriror.jpg"
+    },
+    "name": "Dragon Warrior",
+    "original_release_date": "1986-05-27 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-988/",
+        "id": 988,
+        "name": "Chunsoft",
+        "site_detail_url": "https://www.giantbomb.com/chunsoft/3010-988/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-5/",
+        "id": 5,
+        "name": "Role-Playing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+      }
+    ]
+  },
+  {
+    "deck": "The second game in the Dragon Warrior/Quest series. It continues the legacy of Erdrick/Loto.",
+    "id": 24108,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361685-nes_dragonwarrior2.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361685-nes_dragonwarrior2.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361685-nes_dragonwarrior2.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361685-nes_dragonwarrior2.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361685-nes_dragonwarrior2.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361685-nes_dragonwarrior2.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361685-nes_dragonwarrior2.jpg"
+    },
+    "name": "Dragon Warrior II",
+    "original_release_date": "1987-01-26 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-988/",
+        "id": 988,
+        "name": "Chunsoft",
+        "site_detail_url": "https://www.giantbomb.com/chunsoft/3010-988/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-5/",
+        "id": 5,
+        "name": "Role-Playing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+      }
+    ]
+  },
+  {
+    "deck": "The third release of the Dragon Warrior franchise saw the story take a trip back in time before one and two, taking up the sword of the warrior of legend, Loto. In this game the hero sets out to destroy Baramos after his/her late father Ortega fails.",
+    "id": 16848,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1461789-dragon_warrior3_box_us.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1461789-dragon_warrior3_box_us.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1461789-dragon_warrior3_box_us.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/1461789-dragon_warrior3_box_us.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/1461789-dragon_warrior3_box_us.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1461789-dragon_warrior3_box_us.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1461789-dragon_warrior3_box_us.jpg"
+    },
+    "name": "Dragon Warrior III",
+    "original_release_date": "1988-02-10 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-988/",
+        "id": 988,
+        "name": "Chunsoft",
+        "site_detail_url": "https://www.giantbomb.com/chunsoft/3010-988/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-3175/",
+        "id": 3175,
+        "name": "Armor Project",
+        "site_detail_url": "https://www.giantbomb.com/armor-project/3010-3175/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1877/",
+        "id": 1877,
+        "name": "Heart Beat",
+        "site_detail_url": "https://www.giantbomb.com/heart-beat/3010-1877/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-5/",
+        "id": 5,
+        "name": "Role-Playing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+      }
+    ]
+  },
+  {
+    "deck": "Final Fantasy was the first entry in the now widely recognized Final Fantasy franchise, originally developed on the NES by Square (now Square-Enix).",
+    "id": 8403,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361723-nes_finalfantasy.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361723-nes_finalfantasy.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361723-nes_finalfantasy.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361723-nes_finalfantasy.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361723-nes_finalfantasy.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361723-nes_finalfantasy.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361723-nes_finalfantasy.jpg"
+    },
+    "name": "Final Fantasy",
+    "original_release_date": "1987-12-18 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-104/",
+        "id": 104,
+        "name": "Square Enix",
+        "site_detail_url": "https://www.giantbomb.com/square-enix/3010-104/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-6323/",
+        "id": 6323,
+        "name": "Squaresoft",
+        "site_detail_url": "https://www.giantbomb.com/squaresoft/3010-6323/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1417/",
+        "id": 1417,
+        "name": "TOSE Co., Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/tose-co-ltd/3010-1417/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-5/",
+        "id": 5,
+        "name": "Role-Playing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+      }
+    ]
+  },
+  {
+    "deck": "Featuring a robotic protagonist that could siphon the abilities of his adversaries, Mega Man is a side-scrolling platformer that begins the never-ending struggle between cheeky hero Mega Man and the evil roboticist Dr. Wily.",
+    "id": 5251,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362042-nes_megaman1.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362042-nes_megaman1.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362042-nes_megaman1.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362042-nes_megaman1.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362042-nes_megaman1.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362042-nes_megaman1.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362042-nes_megaman1.jpg"
+    },
+    "name": "Mega Man",
+    "original_release_date": "1987-12-17 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "The evil Dr. Wily is back with eight new menacing creations, and it's up to Mega Man to foil his new plans for world domination! Known for bootstrapping the long-running series, the game also introduces passwords, helpful items (such as Energy Tanks), and the series standard of eight bosses.",
+    "id": 14026,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362037-nes_megaman2_4.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362037-nes_megaman2_4.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362037-nes_megaman2_4.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362037-nes_megaman2_4.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362037-nes_megaman2_4.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362037-nes_megaman2_4.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362037-nes_megaman2_4.jpg"
+    },
+    "name": "Mega Man 2",
+    "original_release_date": "1988-12-24 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "When a peacekeeping effort between Dr. Light and Dr. Wily go haywire, it's up to Mega Man (who now has the ability to slide under obstacles) and his robotic companion Rush to traverse the universe and defeat the Robot Masters in the third installment of the Mega Man series.",
+    "id": 4518,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362039-nes_megaman3.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362039-nes_megaman3.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362039-nes_megaman3.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362039-nes_megaman3.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362039-nes_megaman3.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362039-nes_megaman3.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362039-nes_megaman3.jpg"
+    },
+    "name": "Mega Man 3",
+    "original_release_date": "1990-09-28 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "When Dr. Light receives a threat from another rogue scientist, it's up to Mega Man (now with the ability to charge his shots into powerful blasts) to put a stop to Dr. Cossack's plans in the fourth installment of the Mega Man series.",
+    "id": 8141,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362051-nes_megaman4.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362051-nes_megaman4.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362051-nes_megaman4.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362051-nes_megaman4.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362051-nes_megaman4.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362051-nes_megaman4.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362051-nes_megaman4.jpg"
+    },
+    "name": "Mega Man 4",
+    "original_release_date": "1991-12-06 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "Mega Man's former ally, Proto Man, creates an army of destructive robots and kidnaps Dr. Light, and it's up to Mega Man to stop him in this fifth installment of the Mega Man series.",
+    "id": 1223,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362055-nes_megaman5.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362055-nes_megaman5.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362055-nes_megaman5.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362055-nes_megaman5.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362055-nes_megaman5.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362055-nes_megaman5.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362055-nes_megaman5.jpg"
+    },
+    "name": "Mega Man 5",
+    "original_release_date": "1992-12-02 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "When a mysterious billionaire sponsors an international robot fighting tournament only to reprogram the eight finalists to help him conquer the world, it's up to Mega Man to foil his plans in the last NES installment of the original Mega Man series.",
+    "id": 16475,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2269415-box_mm6.png",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2269415-box_mm6.png",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2269415-box_mm6.png",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2269415-box_mm6.png",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2269415-box_mm6.png",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2269415-box_mm6.png",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2269415-box_mm6.png"
+    },
+    "name": "Mega Man 6",
+    "original_release_date": "1993-10-05 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "In Ice Climber the player controls a hammer wielding Eskimo that needs to climb 32 ice-covered mountains in order to recover a stolen vegetable from a giant condor.",
+    "id": 13918,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361838-nes_iceclimber.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361838-nes_iceclimber.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361838-nes_iceclimber.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361838-nes_iceclimber.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361838-nes_iceclimber.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361838-nes_iceclimber.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361838-nes_iceclimber.jpg"
+    },
+    "name": "Ice Climber",
+    "original_release_date": "1985-01-30 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-928/",
+        "id": 928,
+        "name": "Nintendo R&D1",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-rd1/3010-928/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-10631/",
+        "id": 10631,
+        "name": "SRD Co. Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/srd-co-ltd/3010-10631/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "A genre-defying tale of two toads' quest to rescue their kidnapped friends from the clenches of the Dark Queen. Where Frogger brought frogs to the forefront of videogaming, Battletoads taught children that toads weren't frogs and were here to kick some ass.",
+    "id": 21228,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361165-nes_battletoads.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361165-nes_battletoads.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361165-nes_battletoads.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361165-nes_battletoads.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361165-nes_battletoads.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361165-nes_battletoads.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361165-nes_battletoads.jpg"
+    },
+    "name": "Battletoads",
+    "original_release_date": "1991-02-25 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-174/",
+        "id": 174,
+        "name": "Rare, Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/rare-ltd/3010-174/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-570/",
+        "id": 570,
+        "name": "Arc System Works Co., Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/arc-system-works-co-ltd/3010-570/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-37/",
+        "id": 37,
+        "name": "Brawler",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "An action-adventure game from Konami based on the 1985 movie. Mikey must save the other Goonies from the Fratellis, pirate ghosts and an enormous octopus by finding keys to progress.",
+    "id": 51071,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2787183-0666481373-24146.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2787183-0666481373-24146.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2787183-0666481373-24146.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2787183-0666481373-24146.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2787183-0666481373-24146.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2787183-0666481373-24146.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2787183-0666481373-24146.jpg"
+    },
+    "name": "The Goonies",
+    "original_release_date": "1986-02-21 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "Mikey must save his friends, the Goonies, and Annie the Mermaid from the Fratelli family in this NES platformer.",
+    "id": 10395,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361767-nes_goonies2.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361767-nes_goonies2.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361767-nes_goonies2.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361767-nes_goonies2.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361767-nes_goonies2.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361767-nes_goonies2.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361767-nes_goonies2.jpg"
+    },
+    "name": "The Goonies II",
+    "original_release_date": "1987-11-30 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "An NES platformer based on the Disney animated television series of the same name.",
+    "id": 1994,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361216-nes_chipndalerescuerangers.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361216-nes_chipndalerescuerangers.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361216-nes_chipndalerescuerangers.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361216-nes_chipndalerescuerangers.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361216-nes_chipndalerescuerangers.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361216-nes_chipndalerescuerangers.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361216-nes_chipndalerescuerangers.jpg"
+    },
+    "name": "Chip 'N Dale: Rescue Rangers",
+    "original_release_date": "1990-06-30 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "Super Contra, also known as Super C, is the sequel to Contra. In addition to side-scrolling levels like its predecessor, Super Contra introduces top-down levels, which replace the third-person segments of the original. The NES version, uses the same gameplay engine as the NES version of Contra, with some levels not featured in the arcade version.",
+    "id": 10077,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2799396-7245693820-18113.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2799396-7245693820-18113.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2799396-7245693820-18113.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2799396-7245693820-18113.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2799396-7245693820-18113.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2799396-7245693820-18113.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2799396-7245693820-18113.jpg"
+    },
+    "name": "Super C",
+    "original_release_date": "1987-12-31 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-11/",
+        "id": 11,
+        "name": "Shooter",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+      }
+    ]
+  },
+  {
+    "deck": "This arcade racer for the NES features eight courses from across the world and exciting 3-D action.  It was one of the earliest racing games for the NES.",
+    "id": 2386,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362150-nes_radracer.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362150-nes_radracer.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362150-nes_radracer.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362150-nes_radracer.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362150-nes_radracer.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362150-nes_radracer.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362150-nes_radracer.jpg"
+    },
+    "name": "Rad Racer",
+    "original_release_date": "1987-08-07 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-6323/",
+        "id": 6323,
+        "name": "Squaresoft",
+        "site_detail_url": "https://www.giantbomb.com/squaresoft/3010-6323/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-6/",
+        "id": 6,
+        "name": "Driving/Racing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+      }
+    ]
+  },
+  {
+    "deck": "A fast-paced American Football game with all 28 teams from the National Football League circa 1991.",
+    "id": 7822,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362295-nes_tecmosuperbowl.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362295-nes_tecmosuperbowl.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362295-nes_tecmosuperbowl.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362295-nes_tecmosuperbowl.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362295-nes_tecmosuperbowl.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362295-nes_tecmosuperbowl.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362295-nes_tecmosuperbowl.jpg"
+    },
+    "name": "Tecmo Super Bowl",
+    "original_release_date": "1991-12-01 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-7421/",
+        "id": 7421,
+        "name": "Tecmo",
+        "site_detail_url": "https://www.giantbomb.com/tecmo/3010-7421/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-21/",
+        "id": 21,
+        "name": "Football",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=football&wikiTypeId=3060&wikiId=21&genre=21"
+      }
+    ]
+  },
+  {
+    "deck": "Shadowgate is an adventure game where the player must travel through Castle Shadowgate solving its riddles and puzzles to succeed whilst avoiding numerous perils.",
+    "id": 5516,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362192-nes_shadowgate_de.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362192-nes_shadowgate_de.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362192-nes_shadowgate_de.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362192-nes_shadowgate_de.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362192-nes_shadowgate_de.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362192-nes_shadowgate_de.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362192-nes_shadowgate_de.jpg"
+    },
+    "name": "Shadowgate",
+    "original_release_date": "1987-12-31 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1220/",
+        "id": 1220,
+        "name": "ICOM Simulations, Inc.",
+        "site_detail_url": "https://www.giantbomb.com/icom-simulations-inc/3010-1220/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1270/",
+        "id": 1270,
+        "name": "Kemco",
+        "site_detail_url": "https://www.giantbomb.com/kemco/3010-1270/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-4/",
+        "id": 4,
+        "name": "Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-18/",
+        "id": 18,
+        "name": "Puzzle",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+      }
+    ]
+  },
+  {
+    "deck": "This shape-based Russian mind-bender set the stage for innumerable puzzle games to follow.",
+    "id": 1896,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362306-nes_tetris.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362306-nes_tetris.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362306-nes_tetris.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362306-nes_tetris.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362306-nes_tetris.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362306-nes_tetris.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362306-nes_tetris.jpg"
+    },
+    "name": "Tetris",
+    "original_release_date": "1984-06-06 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1675/",
+        "id": 1675,
+        "name": "AcademySoft",
+        "site_detail_url": "https://www.giantbomb.com/academysoft/3010-1675/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-2236/",
+        "id": 2236,
+        "name": "Andromeda Software",
+        "site_detail_url": "https://www.giantbomb.com/andromeda-software/3010-2236/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-778/",
+        "id": 778,
+        "name": "Spectrum Holobyte, Inc.",
+        "site_detail_url": "https://www.giantbomb.com/spectrum-holobyte-inc/3010-778/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-806/",
+        "id": 806,
+        "name": "Bullet-Proof Software, Inc.",
+        "site_detail_url": "https://www.giantbomb.com/bullet-proof-software-inc/3010-806/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-62/",
+        "id": 62,
+        "name": "Sega",
+        "site_detail_url": "https://www.giantbomb.com/sega/3010-62/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-182/",
+        "id": 182,
+        "name": "Atari",
+        "site_detail_url": "https://www.giantbomb.com/atari/3010-182/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-752/",
+        "id": 752,
+        "name": "Tengen",
+        "site_detail_url": "https://www.giantbomb.com/tengen/3010-752/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-18/",
+        "id": 18,
+        "name": "Puzzle",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+      }
+    ]
+  },
+  {
+    "deck": "The falling blocks return for a sequel focused on color connection instead of the usual line filling.",
+    "id": 12562,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362304-nes_tetris2_2.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362304-nes_tetris2_2.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362304-nes_tetris2_2.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362304-nes_tetris2_2.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362304-nes_tetris2_2.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362304-nes_tetris2_2.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362304-nes_tetris2_2.jpg"
+    },
+    "name": "Tetris 2",
+    "original_release_date": "1993-09-21 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1417/",
+        "id": 1417,
+        "name": "TOSE Co., Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/tose-co-ltd/3010-1417/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-2/",
+        "id": 2,
+        "name": "Strategy",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-18/",
+        "id": 18,
+        "name": "Puzzle",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+      }
+    ]
+  },
+  {
+    "deck": "A young hero must save the world from evil magic by finding the four powerful swords that form Crystalis.",
+    "id": 2231,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361245-nes_crystalis.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361245-nes_crystalis.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361245-nes_crystalis.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361245-nes_crystalis.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361245-nes_crystalis.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361245-nes_crystalis.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361245-nes_crystalis.jpg"
+    },
+    "name": "Crystalis",
+    "original_release_date": "1990-12-31 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-616/",
+        "id": 616,
+        "name": "SNK",
+        "site_detail_url": "https://www.giantbomb.com/snk/3010-616/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-3433/",
+        "id": 3433,
+        "name": "Nintendo Software Technology Corporation",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-software-technology-corporation/3010-3433/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-5/",
+        "id": 5,
+        "name": "Role-Playing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+      }
+    ]
+  },
+  {
+    "deck": "StarTropics was released by Nintendo in 1990 and introduced gamers to Mike and his quest to save his uncle.",
+    "id": 2388,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362260-nes_startropics.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362260-nes_startropics.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362260-nes_startropics.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362260-nes_startropics.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362260-nes_startropics.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362260-nes_startropics.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362260-nes_startropics.jpg"
+    },
+    "name": "StarTropics",
+    "original_release_date": "1990-12-01 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-192/",
+        "id": 192,
+        "name": "Nintendo R&D3",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-rd3/3010-192/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "A licensed platformer based on the massively-successful 1989 superhero film. Sunsoft developed several different versions of the game which were released for both home and portable consoles.",
+    "id": 21264,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2369047-genesis_batman.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2369047-genesis_batman.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2369047-genesis_batman.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2369047-genesis_batman.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2369047-genesis_batman.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2369047-genesis_batman.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2369047-genesis_batman.jpg"
+    },
+    "name": "Batman: The Video Game",
+    "original_release_date": "1989-12-22 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-19/",
+        "id": 19,
+        "name": "SUNSOFT",
+        "site_detail_url": "https://www.giantbomb.com/sunsoft/3010-19/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      }
+    ]
+  },
+  {
+    "deck": "Kirby's sole NES adventure introduces his signature ability to copy the abilities of special enemies (by swallowing them), as he must retrieve the seven broken Star Rod pieces to restore everyones' dreams.",
+    "id": 15890,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1865066-box_ka.png",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1865066-box_ka.png",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1865066-box_ka.png",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/1865066-box_ka.png",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/1865066-box_ka.png",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1865066-box_ka.png",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1865066-box_ka.png"
+    },
+    "name": "Kirby's Adventure",
+    "original_release_date": "1993-03-23 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-753/",
+        "id": 753,
+        "name": "HAL Laboratory, Inc.",
+        "site_detail_url": "https://www.giantbomb.com/hal-laboratory-inc/3010-753/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-328/",
+        "id": 328,
+        "name": "Arika Co., Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/arika-co-ltd/3010-328/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "Known as the first \"stealth action\" game, Metal Gear tells the tale of \"Solid Snake\", a rookie operative of the U.S. special forces unit FOXHOUND, as he infiltrates a fortified military compound (known as Outer Heaven) to destroy a mysterious superweapon known as \"Metal Gear\"",
+    "id": 6712,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2457095-box_mg.png",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2457095-box_mg.png",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2457095-box_mg.png",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2457095-box_mg.png",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2457095-box_mg.png",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2457095-box_mg.png",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2457095-box_mg.png"
+    },
+    "name": "Metal Gear",
+    "original_release_date": "1987-07-07 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "Count Dracula's dark presence has invited the heroic vampire hunter Simon Belmont, who must venture through six stages (filled with horrible monsters) with his trusty vampire-killing whip.",
+    "id": 6673,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361205-nes_castlevania.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361205-nes_castlevania.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361205-nes_castlevania.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361205-nes_castlevania.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361205-nes_castlevania.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361205-nes_castlevania.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361205-nes_castlevania.jpg"
+    },
+    "name": "Castlevania",
+    "original_release_date": "1986-09-26 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-1/",
+        "id": 1,
+        "name": "Action",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "Simon Belmont must rid himself of a horrible curse placed upon him by Dracula in this action-adventure platformer and sequel to the original Castlevania.",
+    "id": 11820,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361209-nes_castlevania2.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361209-nes_castlevania2.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361209-nes_castlevania2.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361209-nes_castlevania2.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361209-nes_castlevania2.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361209-nes_castlevania2.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361209-nes_castlevania2.jpg"
+    },
+    "name": "Castlevania II: Simon's Quest",
+    "original_release_date": "1987-08-28 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "Set over 200 years before the original game, the third installment of the Castlevania series tells the tale of Simon Belmont's ancestor Trevor, who seeks to destroy Dracula with the help of one of three possible companions.",
+    "id": 19328,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361210-nes_castlevania3.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361210-nes_castlevania3.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361210-nes_castlevania3.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361210-nes_castlevania3.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361210-nes_castlevania3.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361210-nes_castlevania3.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361210-nes_castlevania3.jpg"
+    },
+    "name": "Castlevania III: Dracula's Curse",
+    "original_release_date": "1990-08-31 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-87/",
+        "id": 87,
+        "name": "Konami Corporation",
+        "site_detail_url": "https://www.giantbomb.com/konami-corporation/3010-87/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  },
+  {
+    "deck": "Excitebike is a 1985 motocross racing game for the NES. Race around premade tracks and even create custom ones!",
+    "id": 15025,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361695-nes_excitebike.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361695-nes_excitebike.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361695-nes_excitebike.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2361695-nes_excitebike.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2361695-nes_excitebike.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361695-nes_excitebike.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361695-nes_excitebike.jpg"
+    },
+    "name": "Excitebike",
+    "original_release_date": "1984-11-30 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-928/",
+        "id": 928,
+        "name": "Nintendo R&D1",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-rd1/3010-928/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-328/",
+        "id": 328,
+        "name": "Arika Co., Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/arika-co-ltd/3010-328/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-10631/",
+        "id": 10631,
+        "name": "SRD Co. Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/srd-co-ltd/3010-10631/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-419/",
+        "id": 419,
+        "name": "Hudson Entertainment, Inc.",
+        "site_detail_url": "https://www.giantbomb.com/hudson-entertainment-inc/3010-419/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-3/",
+        "id": 3,
+        "name": "Sports",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-6/",
+        "id": 6,
+        "name": "Driving/Racing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+      }
+    ]
+  },
+  {
+    "deck": "The world's richest duck sets off on a globe-trotting adventure to uncover several lost treasures with the help of his family and friends. Explore five exotic locations across the world and pogo-jump to victory as Scrooge McDuck in this NES classic.",
+    "id": 15799,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2325927-nes_ducktales.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2325927-nes_ducktales.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2325927-nes_ducktales.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2325927-nes_ducktales.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2325927-nes_ducktales.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2325927-nes_ducktales.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2325927-nes_ducktales.jpg"
+    },
+    "name": "DuckTales",
+    "original_release_date": "1989-09-14 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-367/",
+        "id": 367,
+        "name": "Capcom",
+        "site_detail_url": "https://www.giantbomb.com/capcom/3010-367/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-41/",
+        "id": 41,
+        "name": "Platformer",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+      }
+    ]
+  },
+  {
+    "deck": "A first-party boxing game for the NES featuring former World Heavyweight champ Mike \"Kid Dynamite\" Tyson as the final opponent. It is largely based on Nintendo's prior arcade release of Punch-Out!!",
+    "id": 4848,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/220826-mike_tyson_s_punch_out.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/220826-mike_tyson_s_punch_out.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/220826-mike_tyson_s_punch_out.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/220826-mike_tyson_s_punch_out.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/220826-mike_tyson_s_punch_out.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/220826-mike_tyson_s_punch_out.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/220826-mike_tyson_s_punch_out.jpg"
+    },
+    "name": "Mike Tyson's Punch-Out!!",
+    "original_release_date": "1987-10-31 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-192/",
+        "id": 192,
+        "name": "Nintendo R&D3",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-rd3/3010-192/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-20/",
+        "id": 20,
+        "name": "Boxing",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=boxing&wikiTypeId=3060&wikiId=20&genre=20"
+      }
+    ]
+  },
+  {
+    "deck": "Don the Power Suit of intergalactic bounty hunter Samus Aran as she recaptures the dangerous Metroid species from the evil Space Pirates. Released by Nintendo in 1986, this game introduced the \"Metroidvania\" style of open-world gameplay on consoles.",
+    "id": 21761,
+    "image": {
+      "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362064-nes_metroid.jpg",
+      "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362064-nes_metroid.jpg",
+      "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362064-nes_metroid.jpg",
+      "small_url": "https://www.giantbomb.com/api/image/scale_small/2362064-nes_metroid.jpg",
+      "super_url": "https://www.giantbomb.com/api/image/scale_large/2362064-nes_metroid.jpg",
+      "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362064-nes_metroid.jpg",
+      "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362064-nes_metroid.jpg"
+    },
+    "name": "Metroid",
+    "original_release_date": "1986-08-06 00:00:00",
+    "developers": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-928/",
+        "id": 928,
+        "name": "Nintendo R&D1",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-rd1/3010-928/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-333/",
+        "id": 333,
+        "name": "Intelligent Systems Co., Ltd.",
+        "site_detail_url": "https://www.giantbomb.com/intelligent-systems-co-ltd/3010-333/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1507/",
+        "id": 1507,
+        "name": "Retro Studios",
+        "site_detail_url": "https://www.giantbomb.com/retro-studios/3010-1507/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1977/",
+        "id": 1977,
+        "name": "Next Level Games, Inc.",
+        "site_detail_url": "https://www.giantbomb.com/next-level-games-inc/3010-1977/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-1764/",
+        "id": 1764,
+        "name": "Team Ninja",
+        "site_detail_url": "https://www.giantbomb.com/team-ninja/3010-1764/"
+      },
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/company/3010-3433/",
+        "id": 3433,
+        "name": "Nintendo Software Technology Corporation",
+        "site_detail_url": "https://www.giantbomb.com/nintendo-software-technology-corporation/3010-3433/"
+      }
+    ],
+    "genres": [
+      {
+        "api_detail_url": "https://www.giantbomb.com/api/genre/3060-43/",
+        "id": 43,
+        "name": "Action-Adventure",
+        "site_detail_url": "https://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+      }
+    ]
+  }
+]
+
+
+//main picture: medium-url, navcart: icon_url, maincart: thumb_url
+//game search http://www.giantbomb.com/api/games/?api_key=f7343a5f7f6eaf9ece336e6e128c870b8ae36938&format=json&filter=platforms:21,name:mario&field_list=api_detail_url,deck,description,id,image,name,original_release_date,site_detail_url
+//single game http://www.giantbomb.com/api/game/3030-15544/?api_key=f7343a5f7f6eaf9ece336e6e128c870b8ae36938&format=json&field_list=deck,developers,genres,id,image,name,original_release_date
+// searched for:
+// mario
+// zelda
+// blades
+// ninja
+// dragon
+// fantasy
+// mega
+// ice
+// battletoads
+// goonies
+// rescue
+// contra
+// racer
+// tecmo
+// shadowgate
+// tetris
+// crystalis
+// startropics
+// batman
+// kirby
+// gear
+// castlevania
+// excite
+// tales
+// punch
+// metroid

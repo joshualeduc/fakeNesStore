@@ -23,12 +23,12 @@
             </div>
           </div>
         </td>
-        <td class="vcenter">
+        <td>
           <input type="number" class="form-control" min="1" [(ngModel)]="product.quantity"/>
         </td>
-        <td class="vcenter"><strong>{{ product.price }}</strong></td>
-        <td class="vcenter"><strong>{{ product.orderCashTotal() }}</strong></td>
-        <td class="vcenter">
+        <td><strong>{{ product.price }}</strong></td>
+        <td><strong>{{ product.orderCashTotal() }}</strong></td>
+        <td>
           <button type="button" class="btn btn-danger">
             <span class="glyphicon glyphicon-remove"></span> Remove
           </button>
