@@ -2,13 +2,13 @@
 import { GameService } from './game.service';
 
 @Component({
-    templateUrl: 'app/browse/browse.component.html'
+    templateUrl: 'app/browse/browse.component.html' 
 })
 export class BrowseComponent implements OnInit {
-    gridVeiw: boolean = true;
+    gridView: boolean = true;
     listView: boolean = false;
     errorMessage: string;
-    nesGames: any[] = [];
+    games: any[] = [];
 
     constructor(private _gameService: GameService) {
 
@@ -16,7 +16,7 @@ export class BrowseComponent implements OnInit {
 
     ngOnInit(): void {
         this._gameService.getGames()
-            .subscribe(nesGames => this.nesGames = nesGames,
-                        error => this.errorMessage = <any>error);
+            .subscribe(games => this.games = games,
+            error => this.errorMessage = <any>error);
     }
 }

@@ -11,12 +11,11 @@
         <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
       </span>
     </div>
-
     <div *ngIf="gridView">
-      <div *ngFor="let game of nesGames" class="row">
+      <div *ngFor="let game of games" class="row">
         <div class="col-sm-6 col-md-4">
           <div class="thumbnail">
-            <img [src]="game.image.thumb_url" alt="" />
+            <img [src]="game.image.thumb_Url" alt="" />
             <div class="caption">
               <h3>{{ game.name }}</h3>
               <p>{{ game.deck }}</p>
@@ -28,12 +27,12 @@
     </div>
 
     <div *ngIf="listView">
-      <div *ngFor="let game of nesGames" class="row">
+      <div *ngFor="let game of games" class="row">
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="media">
               <div class="media-left media-top">
-                <img class="media-object" [src]="game.image.thumb_url" alt="" />
+                <img class="media-object" [src]="game.image.thumb_Url" alt="" />
               </div>
               <div class="media-body">
                 <h4 class="media-heading">{{ game.name }}</h4>

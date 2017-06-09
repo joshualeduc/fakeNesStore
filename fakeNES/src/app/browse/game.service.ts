@@ -15,7 +15,7 @@ export class GameService {
     getGames(): Observable<any[]> {
         return this._http.get(this._gameUrl)
             .map((response: Response) => <any[]> response.json())
-            .do(data => console.log(`All: ${JSON.stringify(data)}`))
+            .do(data => console.log(`${JSON.stringify(data[0].image)}`))
             .catch(this.handleError);
     }
 

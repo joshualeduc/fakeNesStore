@@ -203,6 +203,6 @@ C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\bin\Microsoft.AI.Dependency
 C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\bin\Microsoft.AI.Web.xml
-C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\obj\Debug\fakeNES.csprojResolveAssemblyReference.cache
 C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\obj\Debug\fakeNES.dll
 C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\obj\Debug\fakeNES.pdb
+C:\Users\Josh\OneDrive\Projects\fakeNesStore\fakeNES\obj\Debug\fakeNES.csprojResolveAssemblyReference.cache

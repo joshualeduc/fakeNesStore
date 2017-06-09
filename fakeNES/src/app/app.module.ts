@@ -23,8 +23,7 @@ import { GameService } from './browse/game.service';
             { path: 'home', component: HomeComponent },
             { path: 'browse', component: BrowseComponent },
             { path: 'product', component: ProductComponent },
-            { path: 'cart', component: CartComponent },
-            { path: 'index', redirectTo: 'home', pathMatch: 'full'}
+            { path: 'cart', component: CartComponent }
         ])],
     declarations: [
         AppComponent,
